@@ -4,7 +4,7 @@ Library.DefaultColor = Color3.fromRGB(0,255,0)
 
 Library:Notification({
 
-    Text = "Provided By Envixity Scripts on YouTube",
+    Text = "Subscribe MadaraSricpter",
 
     Duration = 3
 
@@ -18,7 +18,7 @@ Library.DefaultColor = Color3.fromRGB(0,255,0)
 
 Library:Notification({
 
-    Text = "Envixity Scripts On Top! Script Executed",
+    Text = "Enjoy,Subscribe Madara Sricpter For New Video",
 
     Duration = 3
 
